@@ -60,6 +60,6 @@ video {
   z-index: 1;
 }
 
-.page__heading:hover .page__heading__text{
+.page__heading:hover .page__heading__text {
   color: #4c4c4c;
 }
