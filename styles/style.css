@@ -18,9 +18,10 @@ video {
   font-style: normal;
   font-weight: 800;
   line-height: normal;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.035em;
   text-transform: uppercase;
-  word-spacing: 9999px;
+  max-width: 740px;
+  margin: 0 auto;
 }
 
 .page__heading::after {
