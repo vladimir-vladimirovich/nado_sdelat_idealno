@@ -29,6 +29,7 @@ video {
 
 .page__heading:hover {
   cursor: default;
+  color: #4c4c4c;
 }
 
 .page__heading:hover::before {
@@ -53,8 +54,4 @@ video {
   text-align: left;
   letter-spacing: normal;
   word-spacing: normal;
-}
-
-.page__heading:hover {
-  color: #4c4c4c;
 }
